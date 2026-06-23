@@ -56,7 +56,6 @@ The complete registration process consists of:
 
 # Registration Flow Diagram
 
-## Mermaid Sequence Diagram
 
 ```mermaid
 sequenceDiagram
