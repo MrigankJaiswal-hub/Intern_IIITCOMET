@@ -92,7 +92,7 @@ gNB
 ```
 
 The gNB connects:
-
+```mermaid
 flowchart LR
 
 UE[UE]
@@ -104,7 +104,7 @@ Core[5G Core]
 UE <--> gNB
 
 gNB <--> Core
-
+```
 Main functions:
 
 * Radio transmission
@@ -499,7 +499,7 @@ D --> E
 
 ---
 
-# 13. Mermaid Diagram: gNB to AMF Connection
+# 13. gNB to AMF Connection
 
 ```mermaid
 sequenceDiagram
