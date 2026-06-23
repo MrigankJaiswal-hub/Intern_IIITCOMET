@@ -281,7 +281,7 @@ MAC outputs:
 
 ---
 
-# 9. Mermaid Diagram: MAC Scheduler Flow
+# 9. MAC Scheduler Flow
 
 ```mermaid
 flowchart TD
@@ -450,7 +450,7 @@ Higher throughput
 
 ---
 
-# 13. Mermaid Diagram: RIS to MAC Improvement Chain
+# 13. RIS to MAC Improvement Chain
 
 ```mermaid
 flowchart TD
@@ -510,7 +510,7 @@ In this architecture:
 
 ---
 
-# 15. Mermaid Diagram: RIS-Assisted O-RAN MAC Architecture
+# 15. RIS-Assisted O-RAN MAC Architecture
 
 ```mermaid
 flowchart LR
