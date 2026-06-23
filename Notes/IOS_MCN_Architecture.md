@@ -8,41 +8,45 @@ The Indian Open Source Mobile Communication Network (IOS-MCN) is an open-source 
 
 # High-Level IOS-MCN Architecture
 
-```text
-                   +----------------+
-                   |      SMO       |
-                   +----------------+
-                           |
-                    Management
-                           |
-      +---------------------------------------+
-      |                Near-RT RIC            |
-      +---------------------------------------+
-               |                      |
-               | E2                   | E2
-               ↓                      ↓
+```mermaid
+flowchart TB
 
-+---------------------------------------------------+
-|                     O-RAN                         |
-|                                                   |
-|  O-RU  ←→  O-DU  ←→  O-CU                         |
-+---------------------------------------------------+
+    SMO["SMO"]
 
-                     ↓
+    RIC["Near-RT RIC"]
 
-                    gNB
+    SMO -->|Management| RIC
 
-                     ↓
+    subgraph ORAN["O-RAN"]
+        ORU["O-RU"]
+        ODU["O-DU"]
+        OCU["O-CU"]
 
-+---------------------------------------------------+
-|                    5G Core                        |
-|                                                   |
-| AMF | SMF | UPF | NRF | AUSF | UDM               |
-+---------------------------------------------------+
+        ORU <--> ODU
+        ODU <--> OCU
+    end
 
-                     ↓
+    RIC -->|E2| ODU
+    RIC -->|E2| OCU
 
-                 Internet
+    gNB["gNB"]
+
+    ORAN --> gNB
+
+    subgraph CORE["5G Core"]
+        AMF["AMF"]
+        SMF["SMF"]
+        UPF["UPF"]
+        NRF["NRF"]
+        AUSF["AUSF"]
+        UDM["UDM"]
+    end
+
+    gNB --> CORE
+
+    INTERNET["Internet"]
+
+    CORE --> INTERNET
 ```
 
 ---
