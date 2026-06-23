@@ -11,21 +11,30 @@ The MAC layer is a sublayer of the Data Link Layer in the OSI model and is respo
 In 5G NR, the MAC layer resides inside the O-DU (O-RAN Distributed Unit).
 
 Architecture:
+```mermaid
+flowchart TD
 
-UE
-↓
-PHY Layer
-↓
-MAC Layer
-↓
-RLC
-↓
-PDCP
-↓
-SDAP
-↓
-5G Core
+    UE["UE<br/>(User Equipment)"]
 
+    PHY["PHY Layer<br/>(Physical Layer)"]
+
+    MAC["MAC Layer<br/>(Medium Access Control)"]
+
+    RLC["RLC<br/>(Radio Link Control)"]
+
+    PDCP["PDCP<br/>(Packet Data Convergence Protocol)"]
+
+    SDAP["SDAP<br/>(Service Data Adaptation Protocol)"]
+
+    CORE["5G Core"]
+
+    UE --> PHY
+    PHY --> MAC
+    MAC --> RLC
+    RLC --> PDCP
+    PDCP --> SDAP
+    SDAP --> CORE
+```
 The MAC layer acts as the bridge between the Physical Layer and higher protocol layers.
 
 Main responsibilities:
@@ -131,13 +140,13 @@ Example:
 | Very High | 256-QAM    |
 
 Relationship:
-
+```text
 CQI
 ↓
 MCS Selection
 ↓
 Data Rate
-
+```
 Example:
 
 CQI = 14
@@ -204,7 +213,7 @@ HARQ combines:
 for reliable communication.
 
 Process:
-
+```text
 Transmit Packet
 ↓
 Receiver Checks CRC
@@ -212,7 +221,7 @@ Receiver Checks CRC
 ACK or NACK
 ↓
 Retransmit if Needed
-
+```
 ACK
 
 Acknowledgement
@@ -291,7 +300,7 @@ Low SNR:
 * Lower CQI
 
 Relationship:
-
+```text
 SNR ↑
 ↓
 CQI ↑
@@ -299,7 +308,7 @@ CQI ↑
 MCS ↑
 ↓
 Throughput ↑
-
+```
 ---
 
 # 8. RIS Impact on MAC Layer
@@ -340,7 +349,7 @@ MCS = 64-QAM
 High throughput
 
 Relationship:
-
+```text
 RIS
 ↓
 Higher SNR
@@ -350,15 +359,15 @@ Higher CQI
 Higher MCS
 ↓
 Higher Throughput
-
-This is one of the most important concepts in your RIS Pilot Deployment project.
+```
+One of the most important concepts in your RIS Pilot Deployment project.
 
 ---
 
 # 9. RIS + MAC + O-RAN Integration
 
 Future Research Direction
-
+```text
 UE
 ↓
 RIS
@@ -377,20 +386,37 @@ SMF
 UPF
 ↓
 Internet
+```
 
-Workflow:
+```mermaid
+flowchart TD
 
-RIS improves radio channel quality.
-↓
-CQI improves.
-↓
-MAC scheduler receives better CQI.
-↓
-Higher MCS selected.
-↓
-More PRBs effectively utilized.
-↓
-Higher throughput achieved.
+    A["RIS Configuration Applied"]
+
+    B["Improved Channel Conditions
+    (Higher SINR / Lower Interference)"]
+
+    C["UE Reports Higher CQI"]
+
+    D["MAC Scheduler Analysis"]
+
+    E["Higher MCS Selected
+    (64-QAM / 256-QAM)"]
+
+    F["Efficient PRB Scheduling"]
+
+    G["More Data Transmitted per TTI"]
+
+    H["Higher Throughput and Spectral Efficiency"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+```
 
 This forms the basis of RIS-assisted MAC scheduling research.
 
