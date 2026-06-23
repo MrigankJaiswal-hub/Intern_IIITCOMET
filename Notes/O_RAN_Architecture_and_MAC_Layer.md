@@ -12,13 +12,23 @@ The O-RAN architecture forms the Radio Access Network (RAN) portion of modern 5G
 
 ## Traditional Base Station
 
-```text
-+---------------------+
-|      gNB/eNB        |
-|                     |
-| RF + PHY + MAC +    |
-| RLC + PDCP + RRC    |
-+---------------------+
+```mermaid
+flowchart TB
+
+    subgraph BS["Traditional Base Station (gNB/eNB)"]
+        RF["RF"]
+        PHY["PHY"]
+        MAC["MAC"]
+        RLC["RLC"]
+        PDCP["PDCP"]
+        RRC["RRC"]
+
+        RF --> PHY
+        PHY --> MAC
+        MAC --> RLC
+        RLC --> PDCP
+        PDCP --> RRC
+    end
 ```
 
 Everything exists inside one vendor-specific box.
@@ -34,25 +44,26 @@ Limitations:
 
 ## O-RAN Architecture
 
-```text
-+---------+
-|  O-RU   |
-+---------+
-     |
-     | Open Fronthaul
-     |
-+---------+
-|  O-DU   |
-+---------+
-     |
-     | F1 Interface
-     |
-+---------+
-|  O-CU   |
-+---------+
-     |
-     |
-  5G Core
+```mermaid
+flowchart TB
+
+    subgraph RAN["O-RAN Disaggregated RAN"]
+        ORU["O-RU
+        (Radio Unit)"]
+
+        ODU["O-DU
+        (Distributed Unit)"]
+
+        OCU["O-CU
+        (Centralized Unit)"]
+
+        ORU -->|Open Fronthaul| ODU
+        ODU -->|F1 Interface| OCU
+    end
+
+    CORE["5G Core Network"]
+
+    OCU --> CORE
 ```
 
 Benefits:
