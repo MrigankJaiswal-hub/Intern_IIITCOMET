@@ -1174,7 +1174,7 @@ In this architecture:
 
 ---
 
-# 15. Mermaid Diagram: RIS-Assisted O-RAN MAC Architecture
+# 15. RIS-Assisted O-RAN MAC Architecture
 
 ```mermaid
 flowchart LR
