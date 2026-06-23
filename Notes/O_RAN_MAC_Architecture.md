@@ -69,7 +69,7 @@ UE
 
 ---
 
-# 4. Mermaid Diagram: O-RAN Architecture
+# 4. O-RAN Architecture
 
 ```mermaid
 flowchart TB
