@@ -554,3 +554,1648 @@ Error: Invalid prefix for given prefix length.
 [2026-06-23 11:21:46.117] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
 [2026-06-23 11:21:56.117] [upf_n4 ] [info] handle_receive(16 bytes)
 [2026-06-23 11:21:56.117] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:22:06.118] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:22:06.118] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:22:16.118] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:22:16.118] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:22:26.119] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:22:26.119] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:22:36.120] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:22:36.120] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:22:46.120] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:22:46.120] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:22:56.121] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:22:56.121] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:23:06.121] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:23:06.121] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:23:16.122] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:23:16.122] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:23:26.123] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:23:26.123] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:23:36.123] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:23:36.123] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:23:46.124] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:23:46.124] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:23:56.124] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:23:56.125] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:24:06.126] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:24:06.126] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:24:16.126] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:24:16.126] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:24:26.127] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:24:26.127] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:24:36.128] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:24:36.128] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:24:46.129] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:24:46.129] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:24:56.129] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:24:56.129] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:25:06.130] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:25:06.130] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:25:16.130] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:25:16.130] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:25:26.131] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:25:26.131] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:25:36.132] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:25:36.132] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:25:46.132] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:25:46.132] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:25:56.134] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:25:56.134] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:26:06.135] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:26:06.135] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:26:16.136] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:26:16.136] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:26:26.136] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:26:26.136] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:26:36.137] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:26:36.137] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:26:46.138] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:26:46.138] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:26:56.139] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:26:56.139] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:27:06.139] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:27:06.139] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:27:16.140] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:27:16.140] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:27:26.140] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:27:26.140] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:27:36.141] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:27:36.141] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:27:46.141] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:27:46.142] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:27:56.142] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:27:56.142] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:28:06.142] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:28:06.142] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:28:16.143] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:28:16.143] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:28:26.144] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:28:26.144] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:28:36.144] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:28:36.144] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:28:46.146] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:28:46.146] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:28:56.147] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:28:56.147] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:29:06.147] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:29:06.147] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:29:16.148] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:29:16.148] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:29:26.149] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:29:26.149] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:29:36.150] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:29:36.150] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:29:46.150] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:29:46.151] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:29:56.151] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:29:56.151] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:30:06.152] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:30:06.152] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:30:16.152] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:30:16.152] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:30:26.153] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:30:26.153] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:30:36.154] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:30:36.154] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:30:46.154] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:30:46.154] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:30:56.155] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:30:56.155] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:31:06.155] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:31:06.155] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:31:16.156] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:31:16.156] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:31:26.157] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:31:26.157] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:31:36.158] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:31:36.158] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:31:46.158] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:31:46.158] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:31:56.159] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:31:56.159] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:32:06.160] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:32:06.160] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:32:16.160] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:32:16.160] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:32:26.161] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:32:26.161] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:32:36.162] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:32:36.162] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:32:46.162] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:32:46.162] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:32:56.163] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:32:56.163] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:33:06.164] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:33:06.164] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:33:16.165] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:33:16.165] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:33:26.165] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:33:26.165] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:33:36.166] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:33:36.167] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:33:46.167] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:33:46.168] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:33:56.169] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:33:56.169] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:34:06.169] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:34:06.169] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:34:16.170] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:34:16.170] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:34:26.171] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:34:26.171] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:34:36.171] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:34:36.171] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:34:46.172] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:34:46.172] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:34:56.172] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:34:56.172] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:35:06.173] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:35:06.173] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:35:16.173] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:35:16.173] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:35:26.174] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:35:26.174] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:35:36.175] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:35:36.175] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:35:46.175] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:35:46.175] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:35:56.176] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:35:56.176] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:36:06.176] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:36:06.176] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:36:16.177] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:36:16.177] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:36:26.178] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:36:26.178] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:36:36.178] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:36:36.178] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:36:46.179] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:36:46.179] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:36:56.180] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:36:56.180] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:37:06.181] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:37:06.181] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:37:16.182] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:37:16.182] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:37:26.182] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:37:26.182] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:37:36.184] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:37:36.184] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:37:46.185] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:37:46.185] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:37:56.186] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:37:56.186] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:38:06.186] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:38:06.186] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:38:16.187] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:38:16.187] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:38:26.187] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:38:26.187] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:38:36.188] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:38:36.188] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:38:46.189] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:38:46.189] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:38:56.189] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:38:56.190] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:39:06.190] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:39:06.190] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:39:16.190] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:39:16.190] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:39:26.191] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:39:26.191] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:39:36.191] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:39:36.191] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:39:46.192] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:39:46.192] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:39:56.192] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:39:56.192] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:40:06.192] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:40:06.192] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:40:16.193] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:40:16.193] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:40:26.193] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:40:26.193] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:40:36.193] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:40:36.193] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:40:46.194] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:40:46.194] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:40:56.195] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:40:56.195] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:41:06.195] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:41:06.195] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:41:16.196] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:41:16.196] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:41:26.196] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:41:26.196] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:41:36.196] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:41:36.196] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:41:46.197] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:41:46.197] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:41:56.197] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:41:56.197] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:42:06.197] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:42:06.197] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:42:16.198] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:42:16.198] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:42:26.198] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:42:26.198] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:42:36.198] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:42:36.198] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:42:46.199] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:42:46.199] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:42:56.199] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:42:56.199] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:43:06.199] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:43:06.199] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:43:16.200] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:43:16.200] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:43:26.200] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:43:26.200] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:43:36.200] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:43:36.200] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:43:46.201] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:43:46.201] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:43:56.201] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:43:56.201] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:44:06.201] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:44:06.201] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:44:16.201] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:44:16.201] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:44:26.202] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:44:26.202] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:44:36.202] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:44:36.202] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:44:46.203] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:44:46.203] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:44:56.203] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:44:56.203] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:45:06.203] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:45:06.203] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:45:16.204] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:45:16.204] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:45:26.204] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:45:26.204] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:45:36.205] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:45:36.205] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:45:46.205] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:45:46.205] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:45:56.205] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:45:56.205] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:46:06.206] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:46:06.206] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:46:16.206] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:46:16.206] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:46:26.206] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:46:26.206] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:46:36.207] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:46:36.207] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:46:46.207] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:46:46.207] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:46:56.207] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:46:56.207] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:47:06.208] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:47:06.208] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:47:16.209] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:47:16.209] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:47:26.209] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:47:26.209] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:47:36.210] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:47:36.210] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:47:46.210] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:47:46.210] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:47:56.211] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:47:56.211] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:48:06.212] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:48:06.212] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:48:16.212] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:48:16.212] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:48:26.213] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:48:26.213] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:48:36.213] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:48:36.214] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:48:46.214] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:48:46.214] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:48:56.214] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:48:56.214] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:49:06.215] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:49:06.215] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:49:16.216] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:49:16.216] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:49:26.217] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:49:26.217] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:49:36.218] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:49:36.218] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:49:46.218] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:49:46.218] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:49:56.219] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:49:56.219] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:50:06.220] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:50:06.220] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:50:16.220] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:50:16.220] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:50:26.221] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:50:26.221] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:50:36.222] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:50:36.222] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:50:46.222] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:50:46.222] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:50:56.223] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:50:56.223] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:51:06.223] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:51:06.224] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:51:16.224] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:51:16.224] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:51:26.225] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:51:26.225] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:51:36.226] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:51:36.226] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:51:46.226] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:51:46.226] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:51:56.227] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:51:56.227] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:52:06.228] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:52:06.228] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:52:16.229] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:52:16.229] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:52:26.230] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:52:26.230] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:52:36.230] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:52:36.230] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:52:46.231] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:52:46.231] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:52:56.232] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:52:56.232] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:53:06.232] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:53:06.232] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:53:16.233] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:53:16.233] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:53:26.233] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:53:26.233] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:53:36.234] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:53:36.234] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:53:46.235] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:53:46.235] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:53:56.235] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:53:56.235] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:54:06.236] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:54:06.236] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:54:16.237] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:54:16.237] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:54:26.237] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:54:26.237] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:54:36.238] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:54:36.238] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:54:46.239] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:54:46.239] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:54:56.240] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:54:56.240] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:55:06.241] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:55:06.241] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:55:16.241] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:55:16.241] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:55:26.242] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:55:26.242] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:55:36.242] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:55:36.242] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:55:46.243] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:55:46.243] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:55:56.244] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:55:56.244] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:56:06.245] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:56:06.246] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:56:16.246] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:56:16.246] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:56:26.247] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:56:26.247] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:56:36.248] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:56:36.248] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:56:46.249] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:56:46.249] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:56:56.250] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:56:56.250] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:57:06.250] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:57:06.251] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:57:16.251] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:57:16.251] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:57:26.252] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:57:26.252] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:57:36.253] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:57:36.253] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:57:46.254] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:57:46.254] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:57:56.255] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:57:56.255] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:58:06.256] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:58:06.256] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:58:16.257] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:58:16.257] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:58:26.257] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:58:26.258] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:58:36.258] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:58:36.258] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:58:46.259] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:58:46.259] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:58:56.260] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:58:56.260] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:59:06.260] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:59:06.260] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:59:16.263] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:59:16.263] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:59:26.264] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:59:26.264] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:59:36.264] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:59:36.264] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:59:46.265] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:59:46.265] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 11:59:56.265] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 11:59:56.265] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:00:06.266] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:00:06.266] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:00:16.267] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:00:16.267] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:00:26.268] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:00:26.268] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:00:36.268] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:00:36.268] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:00:46.269] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:00:46.269] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:00:56.269] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:00:56.269] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:01:06.270] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:01:06.270] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:01:16.271] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:01:16.271] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:01:26.272] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:01:26.272] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:01:36.273] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:01:36.273] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:01:46.274] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:01:46.274] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:01:56.275] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:01:56.275] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:02:06.276] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:02:06.276] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:02:16.277] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:02:16.277] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:02:26.278] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:02:26.278] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:02:36.279] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:02:36.279] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:02:46.280] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:02:46.280] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:02:56.280] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:02:56.280] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:03:06.281] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:03:06.281] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:03:16.281] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:03:16.281] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:03:26.281] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:03:26.281] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:03:36.282] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:03:36.282] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:03:46.283] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:03:46.283] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:03:56.283] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:03:56.283] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:04:06.284] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:04:06.284] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:04:16.285] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:04:16.285] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:04:26.286] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:04:26.286] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:04:36.286] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:04:36.286] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:04:46.287] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:04:46.287] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:04:56.288] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:04:56.288] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:05:06.288] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:05:06.288] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:05:16.289] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:05:16.289] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:05:26.290] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:05:26.290] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:05:36.290] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:05:36.290] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:05:46.291] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:05:46.291] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:05:56.292] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:05:56.292] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:06:06.292] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:06:06.292] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:06:16.292] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:06:16.293] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:06:26.293] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:06:26.293] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:06:36.294] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:06:36.294] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:06:46.295] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:06:46.295] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:06:56.295] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:06:56.295] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:07:06.296] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:07:06.296] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:07:16.296] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:07:16.296] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:07:26.297] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:07:26.297] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:07:36.298] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:07:36.298] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:07:46.298] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:07:46.299] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:07:56.299] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:07:56.299] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:08:06.300] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:08:06.300] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:08:16.300] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:08:16.300] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:08:26.301] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:08:26.301] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:08:36.302] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:08:36.302] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:08:46.302] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:08:46.302] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:08:56.303] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:08:56.303] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:09:06.304] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:09:06.304] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:09:16.304] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:09:16.304] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:09:26.305] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:09:26.305] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:09:36.305] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:09:36.305] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:09:46.306] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:09:46.306] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:09:56.307] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:09:56.307] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:10:06.307] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:10:06.307] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:10:16.308] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:10:16.308] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:10:26.309] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:10:26.309] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:10:36.309] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:10:36.309] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:10:46.310] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:10:46.310] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:10:56.310] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:10:56.310] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:11:06.311] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:11:06.311] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:11:16.312] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:11:16.312] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:11:26.313] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:11:26.313] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:11:36.313] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:11:36.313] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:11:46.314] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:11:46.314] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:11:56.314] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:11:56.314] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:12:06.315] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:12:06.315] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:12:16.316] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:12:16.316] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:12:26.316] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:12:26.316] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:12:36.317] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:12:36.317] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:12:46.317] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:12:46.317] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:12:56.318] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:12:56.318] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:13:06.318] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:13:06.318] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:13:16.319] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:13:16.319] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:13:26.319] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:13:26.319] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:13:36.319] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:13:36.320] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:13:46.320] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:13:46.320] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:13:56.321] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:13:56.321] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:14:06.322] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:14:06.322] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:14:16.323] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:14:16.323] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:14:26.324] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:14:26.324] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:14:36.325] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:14:36.325] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:14:46.325] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:14:46.325] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:14:56.326] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:14:56.326] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:15:06.327] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:15:06.327] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:15:16.327] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:15:16.327] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:15:26.328] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:15:26.328] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:15:36.329] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:15:36.329] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:15:46.330] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:15:46.330] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:15:56.331] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:15:56.331] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:16:06.332] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:16:06.332] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:16:16.332] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:16:16.332] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:16:26.333] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:16:26.333] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:16:36.334] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:16:36.334] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:16:46.335] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:16:46.335] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:16:56.335] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:16:56.335] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:17:06.336] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:17:06.336] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:17:16.336] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:17:16.336] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:17:26.337] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:17:26.337] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:17:36.338] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:17:36.338] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:17:46.339] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:17:46.339] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:17:56.340] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:17:56.340] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:18:06.341] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:18:06.341] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:18:16.342] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:18:16.342] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:18:26.343] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:18:26.343] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:18:36.344] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:18:36.344] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:18:46.344] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:18:46.344] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:18:56.345] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:18:56.346] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:19:06.346] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:19:06.346] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:19:16.347] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:19:16.347] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:19:26.348] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:19:26.348] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:19:36.349] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:19:36.349] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:19:46.350] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:19:46.350] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:19:56.351] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:19:56.351] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:20:06.352] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:20:06.352] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:20:16.352] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:20:16.352] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:20:26.353] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:20:26.353] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:20:36.354] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:20:36.354] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:20:46.354] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:20:46.354] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:20:56.355] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:20:56.355] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:21:06.355] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:21:06.355] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:21:16.356] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:21:16.356] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:21:26.357] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:21:26.357] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:21:36.358] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:21:36.358] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:21:46.358] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:21:46.358] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:21:56.359] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:21:56.359] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:22:06.359] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:22:06.359] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:22:16.360] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:22:16.360] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:22:26.361] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:22:26.361] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:22:36.365] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:22:36.365] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:22:46.366] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:22:46.366] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:22:56.367] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:22:56.367] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:23:06.368] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:23:06.368] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:23:16.369] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:23:16.369] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:23:26.370] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:23:26.370] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:23:36.371] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:23:36.371] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:23:46.372] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:23:46.372] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:23:56.372] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:23:56.372] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:24:06.373] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:24:06.373] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:24:16.373] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:24:16.373] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:24:26.374] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:24:26.374] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:24:36.375] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:24:36.375] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:24:46.375] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:24:46.375] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:24:56.376] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:24:56.376] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:25:06.376] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:25:06.376] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:25:16.377] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:25:16.377] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:25:26.377] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:25:26.377] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:25:36.378] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:25:36.378] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:25:46.379] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:25:46.379] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:25:56.380] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:25:56.380] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:26:06.381] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:26:06.381] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:26:16.382] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:26:16.382] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:26:26.382] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:26:26.382] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:26:36.383] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:26:36.383] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:26:46.383] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:26:46.383] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:26:56.384] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:26:56.384] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:27:06.385] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:27:06.385] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:27:16.385] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:27:16.385] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:27:26.386] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:27:26.386] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:27:36.386] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:27:36.386] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:27:46.387] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:27:46.387] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:27:56.388] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:27:56.388] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:28:06.388] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:28:06.389] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:28:16.389] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:28:16.389] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:28:26.390] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:28:26.390] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:28:36.391] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:28:36.391] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:28:46.392] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:28:46.392] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:28:56.393] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:28:56.393] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:29:06.395] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:29:06.395] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:29:16.396] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:29:16.396] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:29:26.397] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:29:26.397] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:29:36.398] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:29:36.398] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:29:46.399] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:29:46.399] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:29:56.400] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:29:56.400] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:30:06.401] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:30:06.401] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:30:16.402] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:30:16.402] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:30:26.402] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:30:26.402] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:30:36.403] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:30:36.403] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:30:46.403] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:30:46.403] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:30:56.404] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:30:56.404] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:31:06.404] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:31:06.404] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:31:16.405] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:31:16.405] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:31:26.406] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:31:26.406] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:31:36.406] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:31:36.406] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:31:46.407] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:31:46.407] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:31:56.408] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:31:56.408] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:32:06.408] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:32:06.408] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:32:16.409] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:32:16.409] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:32:26.410] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:32:26.410] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:32:36.410] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:32:36.410] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:32:46.411] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:32:46.411] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:32:56.412] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:32:56.412] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:33:06.413] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:33:06.413] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:33:16.414] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:33:16.414] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:33:26.415] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:33:26.415] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:33:36.415] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:33:36.415] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:33:46.416] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:33:46.416] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:33:56.416] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:33:56.417] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:34:06.417] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:34:06.417] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:34:16.418] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:34:16.418] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:34:26.418] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:34:26.418] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:34:36.419] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:34:36.419] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:34:46.420] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:34:46.420] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:34:56.420] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:34:56.420] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:35:06.421] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:35:06.421] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:35:16.422] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:35:16.422] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:35:26.423] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:35:26.423] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:35:36.423] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:35:36.423] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:35:46.424] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:35:46.424] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:35:56.425] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:35:56.425] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:36:06.426] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:36:06.426] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:36:16.427] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:36:16.427] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:36:26.427] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:36:26.427] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:36:36.428] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:36:36.428] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:36:46.428] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:36:46.428] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:36:56.429] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:36:56.429] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:37:06.430] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:37:06.430] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:37:16.430] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:37:16.431] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:37:26.431] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:37:26.431] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:37:36.432] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:37:36.432] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:37:46.432] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:37:46.432] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:37:56.433] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:37:56.433] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:38:06.434] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:38:06.434] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:38:16.434] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:38:16.434] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:38:26.435] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:38:26.435] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:38:36.436] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:38:36.436] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:38:46.436] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:38:46.436] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:38:56.437] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:38:56.437] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:39:06.438] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:39:06.438] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:39:16.438] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:39:16.439] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:39:26.439] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:39:26.439] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:39:36.440] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:39:36.440] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:39:46.440] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:39:46.440] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:39:56.440] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:39:56.440] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:40:06.441] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:40:06.441] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:40:16.441] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:40:16.441] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:40:26.442] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:40:26.442] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:40:36.443] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:40:36.443] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:40:46.443] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:40:46.443] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:40:56.444] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:40:56.444] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:41:06.444] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:41:06.445] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:41:16.445] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:41:16.445] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:41:26.446] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:41:26.446] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:41:36.446] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:41:36.446] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:41:46.447] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:41:46.447] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:41:56.447] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:41:56.448] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:42:06.448] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:42:06.448] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:42:16.449] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:42:16.449] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:42:26.450] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:42:26.450] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:42:36.451] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:42:36.451] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:42:46.452] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:42:46.452] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:42:56.453] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:42:56.453] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:43:06.454] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:43:06.454] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:43:16.455] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:43:16.455] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:43:26.456] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:43:26.456] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:43:36.457] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:43:36.457] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:43:46.457] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:43:46.457] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:43:56.458] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:43:56.458] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:44:06.459] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:44:06.459] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:44:16.459] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:44:16.459] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:44:26.460] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:44:26.460] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:44:36.460] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:44:36.460] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:44:46.460] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:44:46.460] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:44:56.462] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:44:56.462] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:45:06.462] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:45:06.462] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:45:16.463] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:45:16.463] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:45:26.463] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:45:26.463] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:45:36.463] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:45:36.463] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:45:46.464] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:45:46.464] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:45:56.464] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:45:56.464] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:46:06.465] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:46:06.465] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:46:16.465] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:46:16.465] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:46:26.465] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:46:26.465] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:46:36.466] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:46:36.466] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:46:46.466] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:46:46.466] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:46:56.466] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:46:56.466] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:47:06.467] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:47:06.467] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:47:16.467] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:47:16.467] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:47:26.467] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:47:26.467] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:47:36.467] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:47:36.467] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:47:46.468] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:47:46.468] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:47:56.468] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:47:56.468] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:48:06.469] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:48:06.469] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:48:16.469] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:48:16.469] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:48:26.469] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:48:26.469] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:48:36.470] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:48:36.470] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:48:46.470] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:48:46.470] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:48:56.471] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:48:56.471] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:49:06.471] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:49:06.471] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:49:16.471] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:49:16.471] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:49:26.472] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:49:26.472] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:49:36.472] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:49:36.472] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:49:46.472] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:49:46.472] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:49:56.473] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:49:56.473] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:50:06.473] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:50:06.473] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:50:16.474] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:50:16.474] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:50:26.475] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:50:26.475] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:50:36.475] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:50:36.475] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:50:46.476] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:50:46.476] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:50:56.476] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:50:56.476] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:51:06.477] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:51:06.477] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:51:16.478] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:51:16.478] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:51:26.479] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:51:26.479] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:51:36.479] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:51:36.479] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:51:46.480] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:51:46.480] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:51:56.482] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:51:56.482] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:52:06.483] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:52:06.483] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:52:16.484] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:52:16.484] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:52:26.484] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:52:26.485] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:52:36.486] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:52:36.486] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:52:46.486] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:52:46.486] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:52:56.487] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:52:56.487] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:53:06.488] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:53:06.488] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:53:16.488] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:53:16.488] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:53:26.489] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:53:26.489] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:53:36.490] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:53:36.490] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:53:46.491] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:53:46.491] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:53:56.492] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:53:56.492] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:54:06.493] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:54:06.493] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:54:16.495] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:54:16.495] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:54:26.496] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:54:26.496] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:54:36.496] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:54:36.496] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:54:46.497] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:54:46.497] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:54:56.497] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:54:56.497] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:55:06.498] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:55:06.498] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:55:16.498] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:55:16.498] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:55:26.499] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:55:26.499] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:55:36.500] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:55:36.500] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:55:46.500] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:55:46.500] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:55:56.501] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:55:56.501] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:56:06.502] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:56:06.502] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:56:16.502] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:56:16.502] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:56:26.503] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:56:26.503] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:56:36.504] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:56:36.504] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:56:46.504] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:56:46.504] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:56:56.505] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:56:56.505] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:57:06.506] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:57:06.506] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:57:16.506] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:57:16.506] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:57:26.508] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:57:26.508] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:57:36.509] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:57:36.509] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:57:46.510] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:57:46.510] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:57:56.510] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:57:56.510] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:58:06.511] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:58:06.512] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:58:16.512] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:58:16.512] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:58:26.513] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:58:26.513] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:58:36.514] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:58:36.514] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:58:46.515] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:58:46.515] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:58:56.516] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:58:56.516] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:59:06.517] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:59:06.517] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:59:16.518] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:59:16.518] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:59:26.519] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:59:26.519] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:59:36.520] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:59:36.520] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:59:37.878] [upf_n4 ] [info] handle_receive(60 bytes)
+[2026-06-23 12:59:37.878] [upf_app] [info] 
+[2026-06-23 12:59:37.878] [upf_app] [info] ╔═════════════════════════════════════════════════════════════════════════════╗
+[2026-06-23 12:59:37.878] [upf_app] [info] │             Received N4_SESSION_MODIFICATION_REQUEST seid 0x2               │
+[2026-06-23 12:59:37.878] [upf_app] [info] ╚═════════════════════════════════════════════════════════════════════════════╝
+[2026-06-23 12:59:37.878] [upf_n4 ] [info] pfcp_session::remove(pdr) seid 0x2 PDR=2
+[2026-06-23 12:59:37.878] [upf_n4 ] [info]   └─ Removing PDR 2 from session 0x2
+[2026-06-23 12:59:37.878] [upf_n4 ] [debug]      • Direction: Downlink
+[2026-06-23 12:59:37.878] [upf_n4 ] [debug]      • Was linked to FAR 2
+[2026-06-23 12:59:37.878] [upf_n4 ] [debug]      • Total PDRs remaining: 1
+[2026-06-23 12:59:37.878] [upf_n4 ] [info] pfcp_session::remove(pdr) seid 0x2 PDR=1
+[2026-06-23 12:59:37.878] [upf_n4 ] [info]   └─ Removing PDR 1 from session 0x2
+[2026-06-23 12:59:37.878] [upf_n4 ] [debug]      • Direction: Uplink
+[2026-06-23 12:59:37.878] [upf_n4 ] [debug]      • Was linked to FAR 1
+[2026-06-23 12:59:37.878] [upf_n4 ] [debug]      • Total PDRs remaining: 0
+[2026-06-23 12:59:37.878] [upf_n4 ] [info] pfcp_session::remove(far) seid 0x2 FAR=1
+[2026-06-23 12:59:37.878] [upf_n4 ] [info]   └─ Removing FAR 1 from session 0x2
+[2026-06-23 12:59:37.878] [upf_n4 ] [debug]      • Had Action: FORW 
+[2026-06-23 12:59:37.878] [upf_n4 ] [debug]      • Destination: CORE
+[2026-06-23 12:59:37.878] [upf_n4 ] [debug]      • Total FARs remaining: 1
+[2026-06-23 12:59:37.878] [upf_n4 ] [info] pfcp_session::remove(far) seid 0x2 FAR=2
+[2026-06-23 12:59:37.878] [upf_n4 ] [info]   └─ Removing FAR 2 from session 0x2
+[2026-06-23 12:59:37.878] [upf_n4 ] [debug]      • Had Action: FORW 
+[2026-06-23 12:59:37.878] [upf_n4 ] [debug]      • Destination: ACCESS
+[2026-06-23 12:59:37.878] [upf_n4 ] [debug]      • Total FARs remaining: 0
+
+  ┌───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │                                                                    PDU SESSION RULES - Session 0x1                                                                    │
+  ├────────┬───────┬───────┬────────────┬───────────┬─────────────────┬────────────┬────────────┬───────┬────────────────────────────────┬────────────────────────────────┤
+  │  PDR   │  FAR  │  QER  │ Precedence │ Direction │    UE IPv4      │   Action   │  Dest If   │  QFI  │       Create Outer Hdr         │       Remove Outer Hdr         │
+  ├────────┼───────┼───────┼────────────┼───────────┼─────────────────┼────────────┼────────────┼───────┼────────────────────────────────┼────────────────────────────────┤
+  │ 1      │ 1     │ -     │ 0          │ UL        │ 12.1.1.130      │ FORW       │ CORE       │ -     │ -                              │ GTP TEID:0x1                   │
+  │ 2      │ 2     │ -     │ 0          │ DL        │ 12.1.1.130      │ FORW       │ ACCESS     │ -     │ GTP → 192.168.70.129:0x1       │ -                              │
+  └────────┴───────┴───────┴────────────┴───────────┴─────────────────┴────────────┴────────────┴───────┴────────────────────────────────┴────────────────────────────────┘
+
+
+  ┌───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │                                                                    PDU SESSION RULES - Session 0x2                                                                    │
+  ├────────┬───────┬───────┬────────────┬───────────┬─────────────────┬────────────┬────────────┬───────┬────────────────────────────────┬────────────────────────────────┤
+  │  PDR   │  FAR  │  QER  │ Precedence │ Direction │    UE IPv4      │   Action   │  Dest If   │  QFI  │       Create Outer Hdr         │       Remove Outer Hdr         │
+  ├────────┼───────┼───────┼────────────┼───────────┼─────────────────┼────────────┼────────────┼───────┼────────────────────────────────┼────────────────────────────────┤
+  └────────┴───────┴───────┴────────────┴───────────┴─────────────────┴────────────┴────────────┴───────┴────────────────────────────────┴────────────────────────────────┘
+
+[2026-06-23 12:59:46.521] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:59:46.521] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 12:59:56.522] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 12:59:56.522] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:00:06.522] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:00:06.522] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:00:16.523] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:00:16.523] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:00:26.524] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:00:26.524] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:00:36.525] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:00:36.525] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:00:46.526] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:00:46.526] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:00:56.527] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:00:56.527] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:01:06.528] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:01:06.528] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:01:16.529] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:01:16.529] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:01:26.530] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:01:26.530] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:01:36.531] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:01:36.531] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:01:46.532] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:01:46.532] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:01:56.533] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:01:56.533] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:02:06.534] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:02:06.534] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:02:16.534] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:02:16.534] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:02:26.535] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:02:26.535] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:02:36.537] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:02:36.537] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:02:46.538] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:02:46.538] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:02:56.538] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:02:56.538] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:03:06.540] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:03:06.540] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:03:16.540] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:03:16.540] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:03:26.542] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:03:26.542] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:03:36.543] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:03:36.543] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:03:46.544] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:03:46.544] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:03:56.545] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:03:56.545] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:04:06.546] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:04:06.546] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:04:16.547] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:04:16.547] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:04:26.548] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:04:26.548] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:04:36.549] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:04:36.549] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:04:46.549] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:04:46.549] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:04:56.550] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:04:56.550] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:05:06.551] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:05:06.551] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:05:16.551] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:05:16.552] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:05:26.552] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:05:26.553] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:05:36.554] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:05:36.554] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:05:46.555] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:05:46.555] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:05:56.555] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:05:56.556] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:06:06.557] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:06:06.557] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:06:16.558] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:06:16.558] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:06:26.559] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:06:26.559] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:06:36.560] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:06:36.560] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:06:46.561] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:06:46.561] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:06:56.562] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:06:56.562] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:07:06.563] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:07:06.563] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:07:16.564] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:07:16.564] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:07:26.565] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:07:26.565] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:07:36.566] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:07:36.566] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:07:46.567] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:07:46.567] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:07:56.568] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:07:56.568] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:08:06.569] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:08:06.570] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:08:16.571] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:08:16.571] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:08:26.571] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:08:26.572] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:08:36.573] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:08:36.573] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:08:46.574] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:08:46.574] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:08:56.575] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:08:56.575] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:09:06.576] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:09:06.576] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:09:16.576] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:09:16.577] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:09:26.577] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:09:26.577] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:09:36.578] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:09:36.578] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:09:46.579] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:09:46.579] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:09:56.580] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:09:56.580] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:10:06.581] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:10:06.581] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:10:16.583] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:10:16.583] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:10:26.584] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:10:26.584] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:10:36.585] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:10:36.585] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:10:46.586] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:10:46.586] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:10:56.587] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:10:56.587] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:11:06.588] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:11:06.588] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:11:16.590] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:11:16.590] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:11:26.591] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:11:26.591] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:11:36.592] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:11:36.592] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:11:46.593] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:11:46.593] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:11:56.593] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:11:56.594] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:12:06.595] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:12:06.595] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:12:16.595] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:12:16.596] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:12:26.597] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:12:26.597] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:12:36.597] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:12:36.597] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:12:46.599] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:12:46.599] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:12:56.600] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:12:56.600] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:13:06.601] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:13:06.601] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:13:16.602] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:13:16.602] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:13:26.602] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:13:26.603] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:13:36.603] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:13:36.603] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:13:46.604] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:13:46.604] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:13:56.607] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:13:56.607] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:14:06.608] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:14:06.608] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:14:16.609] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:14:16.609] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:14:26.610] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:14:26.610] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:14:36.611] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:14:36.611] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:14:46.612] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:14:46.612] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:14:56.613] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:14:56.613] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:15:06.614] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:15:06.614] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:15:16.615] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:15:16.615] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:15:26.616] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:15:26.616] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:15:36.617] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:15:36.617] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:15:46.618] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:15:46.618] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:15:56.619] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:15:56.619] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:16:06.620] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:16:06.620] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:16:16.621] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:16:16.621] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:16:26.622] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:16:26.622] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 13:16:36.623] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 13:16:36.623] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:18:14.518] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:18:14.518] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:18:24.519] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:18:24.519] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:18:34.519] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:18:34.519] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:18:44.520] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:18:44.520] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:18:54.521] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:18:54.521] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:19:04.521] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:19:04.521] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:19:14.522] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:19:14.522] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:19:24.522] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:19:24.522] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:19:34.523] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:19:34.523] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:19:44.524] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:19:44.524] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:19:54.525] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:19:54.525] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:20:04.526] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:20:04.526] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:20:14.527] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:20:14.527] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:20:24.528] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:20:24.528] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:20:34.529] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:20:34.529] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:20:44.530] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:20:44.530] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:20:54.530] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:20:54.531] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:21:04.531] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:21:04.531] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:21:14.532] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:21:14.532] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:21:24.533] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:21:24.533] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:21:34.533] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:21:34.533] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:21:44.534] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:21:44.534] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:21:54.535] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:21:54.535] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:22:04.535] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:22:04.535] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:22:14.536] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:22:14.536] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:22:24.537] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:22:24.537] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:22:34.538] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:22:34.538] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:22:44.538] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:22:44.538] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:22:54.539] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:22:54.539] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:23:04.539] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:23:04.539] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:23:14.539] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:23:14.539] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:23:24.540] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:23:24.540] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:23:34.541] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:23:34.541] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:23:44.542] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:23:44.542] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:23:54.542] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:23:54.542] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:24:04.544] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:24:04.544] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:24:14.544] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:24:14.545] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:24:24.545] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:24:24.545] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:24:34.546] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:24:34.546] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:24:44.546] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:24:44.546] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:24:54.547] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:24:54.547] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:25:04.547] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:25:04.547] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:25:14.548] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:25:14.548] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:25:24.549] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:25:24.549] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:25:34.550] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:25:34.550] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:25:44.551] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:25:44.551] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:25:54.551] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:25:54.551] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:26:04.552] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:26:04.552] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:26:14.552] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:26:14.552] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:26:24.553] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:26:24.553] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:26:34.555] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:26:34.555] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:26:44.555] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:26:44.556] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:26:54.556] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:26:54.556] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:27:04.557] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:27:04.557] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:27:14.557] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:27:14.557] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:27:24.558] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:27:24.558] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:27:34.559] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:27:34.559] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:27:44.560] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:27:44.560] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:27:54.560] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:27:54.560] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:28:04.561] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:28:04.561] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:28:14.562] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:28:14.562] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:28:24.563] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:28:24.563] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:28:34.564] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:28:34.564] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:28:44.564] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:28:44.564] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:28:54.565] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:28:54.565] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:29:04.566] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:29:04.566] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:29:14.567] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:29:14.567] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:29:24.568] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:29:24.568] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:29:34.568] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:29:34.568] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:29:44.569] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:29:44.569] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:29:54.569] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:29:54.569] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:30:04.569] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:30:04.570] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:30:14.570] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:30:14.570] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:30:24.571] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:30:24.571] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:30:34.571] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:30:34.571] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:30:44.572] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:30:44.572] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:30:54.573] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:30:54.573] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:31:04.574] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:31:04.574] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:31:14.574] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:31:14.574] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:31:24.575] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:31:24.575] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:31:34.576] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:31:34.576] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:31:44.577] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:31:44.577] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:31:54.577] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:31:54.578] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:32:04.578] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:32:04.578] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:32:14.579] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:32:14.579] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:32:24.580] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:32:24.580] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:32:34.580] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:32:34.581] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:32:44.582] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:32:44.582] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:32:54.582] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:32:54.582] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:33:04.583] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:33:04.583] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:33:14.584] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:33:14.584] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:33:24.584] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:33:24.584] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:33:34.585] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:33:34.585] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:33:44.585] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:33:44.585] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:33:54.586] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:33:54.586] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:34:04.587] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:34:04.587] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:34:14.587] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:34:14.587] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:34:24.588] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:34:24.588] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:34:34.588] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:34:34.588] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 19:34:44.589] [upf_n4 ] [info] handle_receive(16 bytes)
+[2026-06-23 19:34:44.589] [upf_n4 ] [info] Received SX HEARTBEAT REQUEST
+[2026-06-23 20:36:46.216] [system ] [info] Caught signal 15
+[2026-06-23 20:36:46.216] [common] [info] Waiting ITTI tasks closed
+[2026-06-23 20:36:46.216] [asc_cmd] [info] Received terminate message
+[2026-06-23 20:36:46.216] [upf_app] [info] Received terminate message
+[2026-06-23 20:36:46.216] [upf_n4 ] [info] Received terminate message
+[2026-06-23 20:36:46.216] [upf_n3 ] [info] Received terminate message
+[2026-06-23 20:36:46.217] [common] [info] All ITTI tasks closed
+[2026-06-23 20:36:46.217] [system ] [info] Freeing Allocated memory...
+[2026-06-23 20:36:46.217] [system ] [debug] Async Shell CMD memory done.
+[2026-06-23 20:36:46.217] [udp    ] [info] Starting the udp_server destruction
+[2026-06-23 20:36:46.217] [udp    ] [error] Recvfrom failed Success
+[2026-06-23 20:36:46.228] [udp    ] [info] Finished the udp_server destruction
+[2026-06-23 20:36:46.228] [udp    ] [info] Starting the udp_server destruction
+[2026-06-23 20:36:46.228] [udp    ] [error] Recvfrom failed Success
+[2026-06-23 20:36:46.238] [udp    ] [info] Finished the udp_server destruction
+[2026-06-23 20:36:46.238] [udp    ] [info] Starting the udp_server destruction
+[2026-06-23 20:36:46.238] [udp    ] [error] Recvfrom failed Success
+[2026-06-23 20:36:46.248] [udp    ] [info] Finished the udp_server destruction
+[2026-06-23 20:36:46.348] [system ] [debug] UPF APP memory done.
+[2026-06-23 20:36:46.348] [common] [info] ~itti()
+[2026-06-23 20:36:46.348] [common] [info] timer_manager_task is stopped!
+[2026-06-23 20:36:46.449] [common] [info] ~itti() Done!
+[2026-06-23 20:36:46.449] [system ] [debug] ITTI memory done.
+[2026-06-23 20:36:46.449] [system ] [info] Freeing Allocated memory done.
+[2026-06-23 20:36:46.449] [system ] [info] Bye. Shutdown Procedure took 232 ms
+[2026-06-23 20:36:46.449] [upf_app] [info] Delete HTTP client instance
